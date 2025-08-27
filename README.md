@@ -1,6 +1,6 @@
-# 📚 Evaluation of LLMs on Sinhala Structured Examination Questions (Grades 6–11)
+# 📚 rag model for write literature review
 
-This repository contains a comprehensive literature review on the evaluation of large language models (LLMs) in answering structured examination questions in Sinhala, specifically focusing on grades 6–11. The literature review was enhanced and extended using a Retrieval-Augmented Generation (RAG) model to ensure depth, coherence, and thematic consistency while preserving all original citations.
+This repository contains a comprehensive literature review based on previous literature revire and reseach paper texts. The literature review was enhanced and extended using a Retrieval-Augmented Generation (RAG) model to ensure depth, coherence, and thematic consistency while preserving all original citations.
 
 ---
 
@@ -32,24 +32,12 @@ This repository contains a comprehensive literature review on the evaluation of 
 
 > A thematic and chronological breakdown of the literature for improved readability and future sectioning.
 
-### I. Background & Context
-- Evolution of Language Models (LLMs)
-- Sinhala Language in NLP: Challenges & Opportunities
+### . Background & Context
+- past research papers text 
 
-### II. Structured Question Answering
-- Definitions and Taxonomy of Structured Questions
-- Prior Work in Educational NLP for Low-resource Languages
 
-### III. Evaluation Methodologies
-- Automatic vs. Human Evaluation
-- Dataset Preparation (Grades 6–11, Sinhala)
 
-### IV. LLM Benchmarks & Findings
-- Multilingual Models: GPT, BLOOM, mT5
-- Domain-Specific vs. General-Purpose LLMs
-- Performance Metrics: BLEU, F1, ROUGE
-
-### V. Open Issues & Research Gaps
+### . Open Issues & Research Gaps
 - Lack of Sinhala-focused datasets
 - Handling Code-Switching & Dialects
 - Need for culturally relevant QA systems
